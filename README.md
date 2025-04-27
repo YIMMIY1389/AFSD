@@ -1,1 +1,19 @@
+# Welcome to AFSD Learning Resources
+
+Arewa Full-Stack Devs' central hub for tutorials, guides, and study materials.
+
+## Purpose
+Empowering Arewa youth to become world-class Full-Stack Developers.
+
+## Structure
+- `/html/` — HTML learning resources
+- `/css/` — CSS learning resources
+- `/javascript/` — JavaScript tutorials
+- `/backend/` — Server-side development guides
+- `/tools/` — Git, GitHub, VSCode tips
+
+## How to Contribute
+- Fork this repo
+- Add resources or fix errors
+- Create a Pull Request (PR)
 
