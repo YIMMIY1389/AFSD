@@ -80,6 +80,7 @@ Kamar shafi ɗaya a cikin littafi. Kowanne shafi yana da adireshi (URL).
 
 > **Aiki**: Rubuta wannan code a cikin Notepad, ajiye shi da `.html` (misali, `index.html`), sannan ka buɗe a browser ka ga abin da ya fito.
 
+> **YouTube Tutorial** [HTML](https://youtube.com/playlist?list=PL6Ro1qG9QKucphy-IsQ_9z7tSo1ZPd9zZ&si=qILpdC1kINobU_AG)
 ---
 
 ## Mataki na 4: Fahimtar CSS - "Yin Kwalliya da Tsarawa"
