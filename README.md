@@ -1,4 +1,4 @@
-# Welcome to AFSD Learning Resources
+# Welcome to Arewa Full-Stack Devs (AFSD) Learning Resources
 
 Arewa Full-Stack Devs' central hub for tutorials, guides, and study materials.
 
